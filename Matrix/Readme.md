@@ -59,6 +59,10 @@ pip install torch torchvision torchaudio
 pip install tensorflow-cpu
 pip install -U jax
 ```
+or
+```
+pip install -r requirements.txt
+```
 3.Run the performance comparison script:
 
 ```
