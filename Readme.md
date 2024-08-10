@@ -43,7 +43,7 @@ To run the experiments, follow these steps:
 ## Run on Google Colab
 You can run the performance comparison script directly on Google Colab by clicking the button below:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/repository/blob/main/compare_performance.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uCCo_vAQQbDGN8TUHyaQ84S4J2tSuG5U#scrollTo=JWp3Pn-0NfI3)
 
 1.Clone the repository:
 
